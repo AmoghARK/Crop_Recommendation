@@ -11,3 +11,37 @@ Built in **Jupyter Notebook**, the system applies algorithms like **Random Fores
 4. **Prediction for Farmers**: Farmers enter details about their region and soil, and the system suggests the best crops to grow.
 
 By offering personalized recommendations, this tool helps farmers boost productivity and adopt **sustainable farming practices**, improving yields while reducing waste.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// 
+   #Vijay Jagdale 
+   #Amogh Keluskar
+   #Ashutosh Waghmar
+   #Swaraj Ghosalkar
+//
